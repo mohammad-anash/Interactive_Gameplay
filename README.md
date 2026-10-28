@@ -287,7 +287,7 @@ Follow these steps to play the game on your Windows PC.
 
 Download the Windows build ZIP file from the link provided below.
 
-Download Game: Interactive Mansion - Windows Build
+[Download Game: Interactive Mansion - Windows Build](https://github.com/mohammad-anash/Interactive_Gameplay/releases/download/v1.0.0/InteractiveMansion-Windows.zip)
 
 **Step 2: Extract the ZIP File**
 
